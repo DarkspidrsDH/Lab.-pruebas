@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+.top_bar{
+    display: flex;
+    border: 1px solid
+}
+.box_main{
+    display: flex;
+}
+.lateral_bar{
+    border: 1px solid red;
+    position: fixed;
+    height: -webkit-fill-available;
+}
+
+.contenido_principal{
+    border: 1px solid blue;
+}
